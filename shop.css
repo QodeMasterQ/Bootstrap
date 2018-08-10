@@ -1,0 +1,240 @@
+.top-bar {
+background: rgb(235, 235, 235);
+}
+.list {
+    padding-left: 10%;
+}
+
+.top-bar img {
+    width: 3%;
+    height: 2%;
+}
+
+.link p {
+    float: right;
+}
+
+.link a {
+    color: turquoise;
+}
+
+.gap {
+    margin-top: 1%;
+}
+
+.buttons {
+    margin-top: 3%;
+}
+
+.buttons a {
+    float: right;
+    margin-right: 1%;
+}
+
+.buttons a:hover {
+    background-color:turquoise; 
+    text-decoration: none;
+}
+
+.gap a {
+    background: rgb(235, 235, 235);
+    padding: 2%;
+}
+
+.sections a {
+    font-size: 110%;
+    text-decoration: none;
+    margin-right: 2%;
+}
+
+.tabs {
+    margin-bottom: 1%;
+}
+
+.sections a:hover {
+    color: turquoise;
+}
+
+.search img {
+    float: right;
+}
+
+.search input {
+    float: right;
+}
+
+.hero {
+    background-color: rgb(235, 235, 235);
+}
+
+.pic-row img {
+    width: 350px;
+    height: 150px;
+    margin-right: 1%;
+    margin-top: 8%;
+}
+
+.bar  p{
+    color: turquoise;
+    font-weight: bold;
+}
+
+.bar h3 {
+    color: grey;
+}
+
+.bar2  p{
+    color: grey;
+}
+
+.arrow a{
+background-color: rgb(235, 235, 235);
+color: grey;
+padding: 10%;
+}
+
+.latest {
+    margin-top: 2%;
+}
+
+.arrow a:hover {
+    background-color: turquoise;
+    text-decoration: none;
+}
+
+.buy p {
+    color: grey;
+}
+
+.shop1 img {
+    width: 300px;
+    height: 200px;
+}
+
+.shop1 a {
+    background: rgb(235, 235, 235);
+    padding: 3%;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    border-radius: 5%;
+    margin-left: 25%;
+    
+}
+
+.shop1 ul {
+    list-style: none;
+}
+
+.shop1 p {
+    color: grey;
+    text-align: center;
+}
+
+.welcome img {
+    width: 500px;
+    height: 400px;
+}
+
+.welcome h1 {
+    color: turquoise;
+}
+
+.welcome a {
+    text-decoration: none;
+    color: turquoise;
+}
+
+.best h3{ 
+color: turquoise;
+}
+
+.shop2 img {
+    width: 300px;
+    height: 200px;
+}
+
+.shop2 a {
+    background: rgb(235, 235, 235);
+    padding: 3%;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    border-radius: 5%;
+    margin-left: 25%;
+}
+
+.shop2 p {
+    color: grey;
+    text-align: center;
+}
+
+.blocks img {
+    width: 120px;
+    height: 100px;
+    margin-right: 1%;
+    margin-bottom: 3%;
+}
+
+.bottom-bar {
+    background: rgb(235, 235, 235);
+}
+
+.bottom-bar h3 {
+    color: grey;
+}
+
+.sign img {
+    margin-top: 2%;
+}
+
+.bottom-section {
+    background-color: rgb(78, 78, 80);
+    color: white;
+}
+
+.bottom-section a {
+    text-decoration: none;
+    color: turquoise;
+}
+
+.bottom-section img {
+    width: 300px;
+    height: 200px;
+}
+
+.bottom-row {
+    background-color: rgb(78, 78, 80);
+}
+
+.bottom-row img {
+    margin-top: 2%;
+}
+
+.copy {
+    margin-top: 2%;
+}
+
+.search img {
+    width: 5%;
+    height: 3%;
+}
+
+.latest h3 {
+    color: turquoise;
+}
+
+.offers p {
+    color: grey;
+}
+.shop2 ul {
+    list-style: none;
+}
+
+.manu h3 {
+    color: turquoise;
+}
+
+.manu {
+    margin-top: 2%;
+}
